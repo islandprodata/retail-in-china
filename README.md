@@ -9,7 +9,7 @@ Welcome! This is a clean, ready-to-use list of **47,142 retail companies across 
 | File | Rows | Format | Link |
 |---|---|---|---|
 | **Free sample** | 500 rows | CSV | [companies_sample500.csv](companies_sample500.csv) |
-| **Full dataset** | **47,142 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($10 total) -> **[GUMROAD-PENDING-QUOTA]** |
+| **Full dataset** | **47,142 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($10 total) -> **https://islandprosoftware.gumroad.com/l/eymfop** |
 
 > Start with the [free 500-row sample](companies_sample500.csv) -- same columns, same format as the full file. If it fits your workflow, grab the complete 47,142-row dataset on Gumroad.
 
@@ -48,7 +48,7 @@ This repo contains a **free 500-row sample** of retail china companies. The samp
 - **47,142 china retail companies**, same 10 columns as the sample
 - Priced at **$2 per 10,000 records = $10 total**
 - Delivered as `companies.csv` (+ JSON version) immediately after purchase
-- Buy here -> **[GUMROAD-PENDING-QUOTA]**
+- Buy here -> **https://islandprosoftware.gumroad.com/l/eymfop**
 
 ## Use cases
 
